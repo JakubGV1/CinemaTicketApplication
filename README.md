@@ -12,4 +12,4 @@ Graficzna desktopowa aplikacja kinowa do rezerwowania miejsc na wybrany film.
 * Podgląd miejsc
 > * Widok w którym widzimy wszystkie miejsca na wybrany seans. Są to przyciski podpisane numerem rzędu oraz miejscem.
 > * Miejsca posiadają kolory: Zielony-> wolne, Czerwony -> zajęte, Zółty -> miejsce zarezerwowane przez nas, Szary -> wybrane przez nas miejsce, które chcemy zarezerować
-> * Jeżeli klinikemy na zielone miejsce wtedy zmieni się ono w szare i z prawej strony pojawi się przycisk "Zarezerwuj" - po kliknięciu dostaniemy alert z informacją o zarezerwowaniu miejsca na daną date i szczegóły dotyczące rezerwacji takie jak nazwa filmu, miejsce oraz rząd.
+> * Jeżeli klinikemy na zielone miejsce wtedy zmieni się ono w szare i z prawej strony pojawi się przycisk "Zarezerwuj" - po którego kliknięciu dostaniemy alert z informacją o zarezerwowaniu miejsca na daną date i szczegóły dotyczące rezerwacji takie jak nazwa filmu, miejsce oraz rząd.
