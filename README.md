@@ -1,6 +1,7 @@
 # Aplikacja kinowa
 
 Graficzna desktopowa aplikacja kinowa do rezerwowania miejsc na wybrany film.
+Technologie: Java, JavaFX
 
 ## Funkcjonalności
 * Wybór daty
